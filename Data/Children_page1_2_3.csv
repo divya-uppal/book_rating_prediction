@@ -1,0 +1,301 @@
+book_name,author_name,book_rating,no_rating,score,no_votes,author_country,author_dob,author_average_rating,authot_no_rating,author_no_review,author_distinct_work,author_followers
+Where the Wild Things Are,Maurice Sendak,4.22,905364,114540,1172,The United States,1928,4.21,1166110,22349,194,1752
+The Very Hungry Caterpillar,Eric Carle,4.3,446334,108680,1172,The United States,1929,4.23,944299,25757,333,1749
+The Giving Tree,Shel Silverstein,4.37,1002985,106239,1172,The United States,1930,4.33,2911548,41056,87,9038
+Green Eggs and Ham,Dr. Seuss,4.3,690911,98713,1172,The United States,1904,4.25,3513031,62027,399,16964
+Goodnight Moon,Margaret Wise Brown,4.29,337533,79695,1172,The United States,1910,4.21,465672,12280,222,674
+Charlotte's Web,E.B. White,4.18,1597342,74147,1172,The United States,1899,4.16,1902927,32566,61,2378
+"The Cat in the Hat (The Cat in the Hat, #1)",Dr. Seuss,4.17,483796,67651,1172,The United States,1904,4.25,3513031,62027,399,16964
+Where the Sidewalk Ends,Shel Silverstein,4.31,1269861,66844,1172,The United States,1930,4.33,2911548,41056,87,9038
+If You Give a Mouse a Cookie,Laura Joffe Numeroff,4.27,272596,64432,1172,The United States,0,4.24,514652,10921,102,833
+Love You Forever,Robert Munsch,4.36,219522,54553,1172,The United States,1945,4.29,325164,11226,173,1141
+Corduroy,Don Freeman,4.31,207653,49770,1172,The United States,1908,4.29,283551,5059,107,171
+The Lorax,Dr. Seuss,4.33,313609,49735,1172,The United States,1904,4.25,3513031,62027,399,16964
+Madeline,Ludwig Bemelmans,4.24,203065,48129,1172,Austria,1898,4.24,272963,3891,90,332
+"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,4.48,8305188,45546,1172,The United Kingdom,1965,4.46,29980278,669893,275,217800
+The Velveteen Rabbit,Margery Williams Bianco,4.28,241812,45212,1172,The United Kingdom,1881,4.28,242993,4231,109,357
+How the Grinch Stole Christmas!,Dr. Seuss,4.36,370462,42485,1172,The United States,1904,4.25,3513031,62027,399,16964
+Curious George,H.A. Rey,4.15,131258,41030,1172,Germany,1898,4.19,364514,6122,360,177
+The Monster at the End of this Book,Jon Stone,4.44,122676,40510,1172,The United States,1931,4.44,126399,3369,27,46
+Chicka Chicka Boom Boom,Bill Martin Jr.,4.24,159240,40429,1172,in The United States,1916,4.22,440376,12417,152,273
+"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,4.15,183799,38722,1172,The United States,1904,4.25,3513031,62027,399,16964
+"Brown Bear, Brown Bear, What Do You See?",Bill Martin Jr.,4.23,165768,37498,1172,in The United States,1916,4.22,440376,12417,152,273
+The Little Prince,Antoine de Saint-Exupéry,4.31,1673736,36932,1172,France,1900,4.31,1718392,53317,464,6898
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,4.23,178362,36507,1172,The United States,1931,4.2,209544,6376,60,393
+"Harold and the Purple Crayon (Harold, #1)",Crockett Johnson,4.26,134853,35773,1172,in The United States,1906,4.24,155616,3410,64,109
+Matilda,Roald Dahl,4.33,776049,35430,1172,The United Kingdom,1916,4.13,3685973,106987,678,22308
+The Tale of Peter Rabbit,Beatrix Potter,4.2,226764,33700,1172,The United Kingdom,1866,4.2,440180,8536,1231,1738
+Are You My Mother?,P.D. Eastman,4.19,228645,33270,1172,The United States,1909,4.18,384974,5918,48,350
+"Oh, the Places You'll Go!",Dr. Seuss,4.35,365924,32660,1172,The United States,1904,4.25,3513031,62027,399,16964
+"Frog and Toad Are Friends (Frog and Toad, #1)",Arnold Lobel,4.21,88077,32285,1172,The United States,1933,4.24,253955,6912,171,399
+"Cloudy With a Chance of Meatballs (Cloudy with a Chance of Meatballs, #1)",Judi Barrett,4.17,135392,32178,1172, ,0,4.15,143705,3254,34,95
+"The World of Winnie-the-Pooh (Winnie-the-Pooh, #1-2)",A.A. Milne,4.41,47210,31389,1172,The United Kingdom,1882,4.33,572813,13823,1023,2939
+The Secret Garden,Frances Hodgson Burnett,4.14,1010481,30644,1172,The United Kingdom,1849,4.15,1354187,34719,657,3618
+Alice's Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,4.06,502987,29916,1172,England,1832,4.05,1466283,39446,1983,7179
+Guess How Much I Love You,Sam McBratney,4.37,133876,29028,1172,The United Kingdom,1943,4.36,142671,2693,130,272
+"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,4.14,183058,27618,1172,Sweden,1907,4.18,390607,12120,564,2946
+Horton Hears a Who!,Dr. Seuss,4.19,102895,27463,1172,The United States,1904,4.25,3513031,62027,399,16964
+The True Story of the 3 Little Pigs,Jon Scieszka,4.3,181555,27434,1172,The United States,1954,4.18,377895,16152,156,1131
+"The Chronicles of Narnia (Chronicles of Narnia, #1-7)",C.S. Lewis,4.26,577904,27033,1172,Ireland,1898,4.16,6706349,163357,408,37052
+The Little Engine That Could,Watty Piper,4.17,107373,26497,1172, ,0,4.17,108133,1674,79,184
+"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,4.28,834905,26101,1172,Canada,1874,4.22,1849845,73316,575,9717
+"Amelia Bedelia  (Amelia Bedelia, #1)",Peggy Parish,4.17,86740,26065,1172,The United States,1927,4.2,163416,2932,99,346
+"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,4.15,749335,25595,1172,The United Kingdom,1916,4.13,3685973,106987,678,22308
+The Stinky Cheese Man and Other Fairly Stupid Tales,Jon Scieszka,4.19,94169,24356,1172,The United States,1954,4.18,377895,16152,156,1131
+The BFG,Roald Dahl,4.22,425857,24276,1172,The United Kingdom,1916,4.13,3685973,106987,678,22308
+"The Hobbit, or There and Back Again",J.R.R. Tolkien,4.28,3299213,22879,1172,South Africa,1892,4.35,9521357,157411,385,63040
+Stellaluna,Janell Cannon,4.25,113111,22761,1172,The United States,1957,4.25,122986,2346,9,136
+The Poky Little Puppy,Janette Sebring Lowrey,4.11,79056,21582,1172,The United States,1892,4.11,79654,932,27,40
+Make Way for Ducklings,Robert McCloskey,4.22,87083,20807,1172,The United States,1914,4.2,212242,5332,34,276
+James and the Giant Peach,Roald Dahl,4.02,423671,20494,1172,The United Kingdom,1916,4.13,3685973,106987,678,22308
+"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,3.99,1112409,20137,1172,The United States,1918,3.99,1582397,57152,92,7947
+Don't Let the Pigeon Drive the Bus!,Mo Willems,4.3,89631,19800,1172,The United States,1968,4.3,556616,37639,121,3579
+The Polar Express,Chris Van Allsburg,4.31,224761,19432,1172,The United States,1949,4.23,329884,11711,44,964
+"Go, Dog. Go!",P.D. Eastman,4.12,85490,19118,1172,The United States,1909,4.18,384974,5918,48,350
+The Phantom Tollbooth,Norton Juster,4.18,266010,18985,1172,The United States,1929,4.17,279425,13610,19,767
+"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,4.19,248506,18924,1172,The United States,1867,4.19,1233002,29394,423,4235
+"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,3.99,408191,18822,1172,The United States,1856,3.96,621428,26238,1077,2290
+The Rainbow Fish,Marcus Pfister,4.19,135345,18332,1172,Switzerland,1960,4.17,144535,4479,158,136
+"The Giver (The Giver, #1)",Lois Lowry,4.13,2061705,17728,1172,The United States,0,4.1,3102593,127409,103,19165
+The Story of Ferdinand,Munro Leaf,4.35,89043,17614,1172,The United States,1905,4.35,94170,2286,37,180
+The Night Before Christmas,Clement C. Moore,4.38,115407,16769,1172,The United States,1779,4.37,119205,2829,252,254
+Bridge to Terabithia,Katherine Paterson,4.02,492411,16546,1172,China,1932,3.98,576103,21349,119,1688
+Blueberries for Sal,Robert McCloskey,4.2,70858,16436,1172,The United States,1914,4.2,212242,5332,34,276
+The Witches,Roald Dahl,4.16,355650,16086,1172,The United Kingdom,1916,4.13,3685973,106987,678,22308
+Clifford the Big Red Dog,Norman Bridwell,4.15,83432,15970,1172,The United States,1928,4.13,173635,3501,229,182
+Fox in Socks,Dr. Seuss,4.08,59821,15941,1172,The United States,1904,4.25,3513031,62027,399,16964
+"Caps for Sale: A Tale of a Peddler, Some Monkeys and Their Monkey Business",Esphyr Slobodkina,4.15,90584,15924,1172,Russian Federation,1908,4.15,91481,1745,13,36
+"Little Bear (Little Bear, #1)",Else Holmelund Minarik,4.23,57104,15761,1172,in Denmark,1920,4.25,99789,1366,73,114
+The Paper Bag Princess,Robert Munsch,4.3,50063,15628,1172,The United States,1945,4.29,325164,11226,173,1141
+Tikki Tikki Tembo,Arlene Mosel,4.2,64227,15549,1172,The United States,1921,4.18,67888,1398,6,20
+"The Snowy Day (Peter, #1)",Ezra Jack Keats,4.17,109967,15273,1172,The United States,1916,4.17,140145,6259,90,305
+"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,4.23,2406408,14994,1172,Ireland,1898,4.16,6706349,163357,408,37052
+"Miss Nelson Is Missing! (Miss Nelson, #1)",Harry Allard,4.29,105257,14960,1172,The United States,1928,4.3,142805,2296,24,68
+A Bad Case of Stripes,David Shannon,4.26,78450,14855,1172,The United States,1959,4.16,266265,13271,122,470
+Chrysanthemum,Kevin Henkes,4.32,54174,14656,1172, ,0,4.12,239040,18215,90,991
+"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,4.33,298411,14088,1172,The United Kingdom,1882,4.33,572813,13823,1023,2939
+"Click, Clack, Moo: Cows That Type",Doreen Cronin,4.26,87640,14010,1172,The United States,0,4.16,200588,9870,77,398
+Falling Up,Shel Silverstein,4.34,140036,13745,1172,The United States,1930,4.33,2911548,41056,87,9038
+The Sneetches and Other Stories,Dr. Seuss,4.3,64902,13694,1172,The United States,1904,4.25,3513031,62027,399,16964
+From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,4.15,199837,13615,1172,The United States,1930,4.04,271938,12946,42,982
+The Tale of Despereaux,Kate DiCamillo,4.04,179438,13467,1172,The United States,0,4.08,739037,59451,75,8030
+"The Story of Babar (Babar, #1)",Jean de Brunhoff,4.07,57982,13143,1172,in France,1899,4.1,83847,899,112,64
+"The Indian in the Cupboard (The Indian in the Cupboard, #1)",Lynne Reid Banks,3.92,101592,12980,1172,The United Kingdom,1929,3.91,147450,4675,60,332
+Sideways Stories from Wayside School (Wayside School #1),Louis Sachar,4.14,94506,11673,1172,The United States,0,4.0,1361962,36990,63,3269
+"Olivia (Olivia, #1)",Ian Falconer,4.13,62433,11649,1172,The United States,1959,3.84,152943,8989,34,255
+The Adventures of Tom Sawyer,Mark Twain,3.92,834618,11458,1172,The United States,1835,3.87,2549703,55006,1940,16127
+"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder,4.34,147457,11395,1172,The United States,1867,4.19,1233002,29394,423,4235
+"The Mouse and the Motorcycle (Ralph S. Mouse, #1)",Beverly Cleary,3.94,81368,11339,1172,The United States,1916,4.01,839064,23363,118,2931
+The Neverending Story,Michael Ende,4.17,181528,11102,1172,Germany,1929,4.21,269879,12732,160,2571
+Hop On Pop,Dr. Seuss,0.0,52913,11077,1172,The United States,1904,4.25,3513031,62027,399,16964
+Horton Hatches the Egg,Dr. Seuss,4.17,45798,11051,1172,The United States,1904,4.25,3513031,62027,399,16964
+"Ramona the Pest (Ramona, #2)",Beverly Cleary,4.07,64620,11011,1172,The United States,1916,4.01,839064,23363,118,2931
+Harry the Dirty Dog,Gene Zion,4.18,53680,10857,1172,The United States,1913,4.2,77022,1572,24,50
+The Little House,Virginia Lee Burton,4.28,40597,10827,1172,The United States,1909,4.21,123601,2862,23,183
+"Bunnicula (Bunnicula, #1)",Deborah Howe,3.86,65649,10575,1172,The United States,1946,3.87,66114,2799,14,28
+A Light in the Attic,Shel Silverstein,4.34,408124,10246,1172,The United States,1930,4.33,2911548,41056,87,9038
+"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,4.58,3352576,10120,1172,The United Kingdom,1965,4.46,29980278,669893,275,217800
+Stone Soup,Jon J. Muth,4.17,14543,10107,1172,The United States,1960,4.33,122898,8036,96,294
+The Three Billy Goats Gruff,Paul Galdone,4.17,15309,9543,1172,Hungary,1907,4.06,36069,2945,221,63
+"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,4.43,3201906,9340,1172,The United Kingdom,1965,4.46,29980278,669893,275,217800
+Yertle the Turtle and Other Stories,Dr. Seuss,4.14,34463,9258,1172,The United States,1904,4.25,3513031,62027,399,16964
+"The Boxcar Children (The Boxcar Children, #1)",Gertrude Chandler Warner,4.12,127024,9169,114,The United States,1890,4.02,290463,8263,331,599
+"Frog and Toad Together (Frog and Toad, #2)",Arnold Lobel,4.23,42424,8900,114,The United States,1933,4.24,253955,6912,171,399
+Peter Pan,J.M. Barrie,4.04,309887,8890,114,Scotland,1860,4.07,384624,15357,728,2047
+"You Are Special (Wemmicksville, #1)",Max Lucado,4.43,51610,8747,114,The United States,0,4.3,332701,17638,748,4066
+"Mrs. Piggle-Wiggle (Mrs. Piggle Wiggle, #1)",Betty MacDonald,4.15,53206,8602,114,The United States,1908,4.15,111504,4215,20,272
+"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,4.62,3186691,8571,114,The United Kingdom,1965,4.46,29980278,669893,275,217800
+Lilly's Purple Plastic Purse,Kevin Henkes,4.18,30352,8439,114, ,0,4.12,239040,18215,90,991
+"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling,4.57,2996974,8437,114,The United Kingdom,1965,4.46,29980278,669893,275,217800
+A Little Princess,Frances Hodgson Burnett,4.21,286774,8035,114,The United Kingdom,1849,4.15,1354187,34719,657,3618
+The Mitten,Jan Brett,4.26,88766,8003,114,in The United States,1949,4.26,285648,8735,76,771
+And to Think That I Saw It on Mulberry Street,Dr. Seuss,3.98,24369,7965,114,The United States,1904,4.25,3513031,62027,399,16964
+"Holes (Holes, #1)",Louis Sachar,3.98,1071966,7818,114,The United States,0,4.0,1361962,36990,63,3269
+"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,4.57,2784102,7545,114,The United Kingdom,1965,4.46,29980278,669893,275,217800
+"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,4.5,2873932,7372,114,The United Kingdom,1965,4.46,29980278,669893,275,217800
+Sylvester and the Magic Pebble,William Steig,4.14,44629,7319,114,The United States,1907,4.09,97752,5739,91,306
+"Knuffle Bunny: A Cautionary Tale (Knuffle Bunny, #1)",Mo Willems,4.26,47850,7223,114,The United States,1968,4.3,556616,37639,121,3579
+The Kissing Hand,Audrey Penn,4.42,66897,7172,114, ,0,4.41,70942,2577,31,96
+Strega Nona,Tomie dePaola,4.24,87050,6922,114,The United States,1934,4.14,169389,10015,347,753
+There Was an Old Lady Who Swallowed a Fly,Pam Adams,4.22,29950,6892,114,The United Kingdom,0,4.21,30853,500,116,9
+Number the Stars,Lois Lowry,4.16,501753,6573,114,The United States,0,4.1,3102593,127409,103,19165
+Ella Enchanted (Ella Enchanted #1),Gail Carson Levine,3.99,401415,6541,114,The United States,1947,3.94,667647,26588,42,8408
+"Little House on the Prairie (Little House, #3)",Laura Ingalls Wilder,4.2,272811,6533,114,The United States,1867,4.19,1233002,29394,423,4235
+Little Women,Louisa May Alcott,4.12,1899972,6472,114,The United States,1832,4.09,2216661,57352,1004,7553
+"The Borrowers (The Borrowers, #1)",Mary Norton,4.03,93215,6251,114,The United Kingdom,1903,4.03,132249,3348,47,378
+Coraline,Neil Gaiman,4.08,561729,6244,114, ,0,4.13,6840895,416729,734,280368
+The Wind in the Willows,Kenneth Grahame,3.99,194124,6038,114,Scotland,1859,3.99,208295,8435,496,511
+Dr. Seuss's ABC: An Amazing Alphabet Book!,Dr. Seuss,4.1,45438,5973,114,The United States,1904,4.25,3513031,62027,399,16964
+Mike Mulligan and His Steam Shovel,Virginia Lee Burton,4.19,52065,5953,114,The United States,1909,4.21,123601,2862,23,183
+"Tales of a Fourth Grade Nothing (Fudge, #1)",Judy Blume,4.1,135369,5902,114,The United States,0,3.88,906028,39173,96,9103
+The Napping House,Audrey Wood,4.25,45784,5869,114,The United States,0,4.21,132600,5953,72,254
+The Runaway Bunny,Margaret Wise Brown,4.04,78025,5847,114,The United States,1910,4.21,465672,12280,222,674
+How to Eat Fried Worms,Thomas Rockwell,3.76,46678,5822,114,0,0,0.0,0,0,0,0
+The Mystic Princesses and the Whirlpool,P.J. LaRue,4.46,130,5785,114,in The United States,0,0.0,0,163,61,209
+"Mary Poppins (Mary Poppins, #1)",P.L. Travers,4.02,123482,5726,114,Australia,1899,4.02,160825,7972,71,638
+Bread and Jam for Frances,Russell Hoban,4.19,33315,5567,114,The United States,1925,4.15,109685,4010,116,303
+"Watership Down (Watership Down, #1)",Richard  Adams,4.07,454686,5439,114,The United Kingdom,1920,4.05,485761,17747,60,1634
+Where the Red Fern Grows,Wilson Rawls,4.09,370194,5437,114,The United States,1913,4.09,384379,13300,11,554
+The Complete Fairy Tales,Hans Christian Andersen,4.29,101438,5434,114,Denmark,1805,4.1,329400,13108,3181,2925
+"The Little Mouse, the Red Ripe Strawberry, and the Big Hungry Bear",Don Wood,4.3,38917,5359,114, ,0,4.23,117421,4698,43,30
+What Do People Do All Day?,Richard Scarry,4.26,12173,5351,114,The United States,1919,4.27,142940,3191,646,389
+Stuart Little,E.B. White,3.9,117554,5285,114,The United States,1899,4.16,1902927,32566,61,2378
+"Are You There God? It's Me, Margaret",Judy Blume,3.91,200554,5142,114,The United States,0,3.88,906028,39173,96,9103
+Heidi,Johanna Spyri,0.0,183973,5071,114,Switzerland,1827,4.02,201020,5554,457,498
+Harriet the Spy (Harriet the Spy #1),Louise Fitzhugh,3.95,97599,4972,114,The United States,1928,3.94,101979,3021,12,274
+George and Martha: The Complete Stories of Two Best Friends,James  Marshall,4.2,9721,4968,114,The United States,1942,4.25,180389,4847,112,108
+Chicken Soup with Rice: A Book of Months,Maurice Sendak,4.23,30672,4966,114,The United States,1928,4.21,1166110,22349,194,1752
+"The Bad Beginning (A Series of Unfortunate Events, #1)",Lemony Snicket,3.97,454832,4857,114,The United States,0,3.98,2215236,82016,89,22330
+There's a Wocket in My Pocket!,Dr. Seuss,4.04,32122,4816,114,The United States,1904,4.25,3513031,62027,399,16964
+We're Going on a Bear Hunt,Michael Rosen,4.27,44564,4813,114,The United Kingdom,0,4.18,87945,4505,329,353
+"Good Night, Gorilla",Peggy Rathmann,4.21,48160,4717,114,The United States,1953,4.21,84718,3651,15,75
+How Do Dinosaurs Say Good Night?,Jane Yolen,4.15,35913,4580,114,The United States,0,3.96,378313,30963,846,2818
+If You Give a Moose a Muffin,Laura Joffe Numeroff,4.19,61155,4530,114,The United States,0,4.24,514652,10921,102,833
+To Kill a Mockingbird,Harper Lee,4.27,5161870,4434,114,The United States,1926,4.23,5441361,133111,11,12254
+"No, David!",David Shannon,4.15,53809,4343,114,The United States,1959,4.16,266265,13271,122,470
+The Hundred Dresses,Eleanor Estes,4.09,36890,4313,114,The United States,1906,3.99,70028,4825,26,217
+But Not the Hippopotamus,Sandra Boynton,4.23,13834,4308,114,The United States,1953,4.18,201464,7474,114,867
+Rikki-Tikki-Tavi,Jerry Pinkney,3.89,17642,4165,114,The United States,1939,4.11,115958,11192,16,217
+"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan,4.28,2374384,4149,114,The United States,0,4.33,10307709,402638,223,375072
+Island of the Blue Dolphins,Scott O'Dell,3.85,312756,4102,114,The United States,1898,3.83,342578,11149,55,664
+Archibald Finch and the Lost Witches (Archibald Finch #1),Michel Guyon,4.15,377,4093,114,France,0,4.15,377,132,2,78
+Bedtime for Frances,Russell Hoban,4.13,27773,4073,114,The United States,1925,4.15,109685,4010,116,303
+Mr. Popper's Penguins,Richard Atwater,3.97,68035,4040,114,The United States,1892,3.97,68107,3079,9,45
+The Diary of a Young Girl,Anne Frank,4.17,3174189,3963,114,Germany,1929,4.17,3234545,36071,40,4433
+The Grouchy Ladybug,Eric Carle,4.1,33957,3949,114,The United States,1929,4.23,944299,25757,333,1749
+In the Night Kitchen,Maurice Sendak,0.0,17988,3938,114,The United States,1928,4.21,1166110,22349,194,1752
+I Was So Mad (A Golden Look-Look Book),Mercer Mayer,4.22,18091,3838,114,The United States,1943,4.22,323942,8353,624,696
+Miss Rumphius,Barbara Cooney,4.42,26782,3792,114,The United States,1917,4.2,97709,4366,103,171
+Cheaper by the Dozen,Frank B. Gilbreth Jr.,3.97,42332,3755,114,The United States,1911,3.99,49283,2518,16,56
+George's Marvellous Medicine,Roald Dahl,4.03,82761,3739,114,The United Kingdom,1916,4.13,3685973,106987,678,22308
+If You Give a Pig a Pancake,Laura Joffe Numeroff,4.25,62569,3712,114,The United States,0,4.24,514652,10921,102,833
+"The Golden Compass (His Dark Materials, #1)",Philip Pullman,0.0,1395156,3655,114,The United Kingdom,1946,4.05,2643279,81254,99,21782
+Fantastic Mr. Fox,Roald Dahl,4.07,117281,3606,114,The United Kingdom,1916,4.13,3685973,106987,678,22308
+The Berenstain Bears and the Messy Room,Stan Berenstain,4.17,34713,3571,114,The United States,1923,4.11,393812,8491,576,589
+The Invention of Hugo Cabret,Brian Selznick,4.21,174932,3553,114,The United States,1966,4.06,453305,38702,61,3356
+The Little Red Hen,Diane Muldrow,4.24,26888,3552,114, ,0,4.23,55848,1856,97,65
+D'Aulaires' Book of Greek Myths,Ingri d'Aulaire,4.41,17565,3538,114,Norway,1904,4.32,32267,2134,33,123
+Eloise,Kay Thompson,4.16,25023,3486,114,The United States,1908,4.14,31816,1081,59,103
+The Butter Battle Book,Dr. Seuss,4.13,13977,3476,114,The United States,1904,4.25,3513031,62027,399,16964
+The Witch of Blackbird Pond,Elizabeth George Speare,3.99,144624,3434,114,The United States,1908,3.97,206189,10978,10,866
+Five Little Monkeys Jumping on the Bed,Eileen Christelow,4.12,29822,3425,114,The United States,1943,4.07,37952,1907,70,37
+Llama Llama Red Pajama,Anna Dewdney,4.28,44855,3369,114,,1965,4.23,108661,5550,94,351
+The Emperor's New Clothes,Hans Christian Andersen,3.97,13557,3349,114,Denmark,1805,4.1,329400,13108,3181,2925
+"The Magician's Nephew (Chronicles of Narnia, #6)",C.S. Lewis,4.04,465310,3346,114,Ireland,1898,4.16,6706349,163357,408,37052
+Pat the Bunny,Dorothy Kunhardt,4.05,24519,3339,114,The United States,1901,4.05,25302,562,62,19
+Sadako and the Thousand Paper Cranes,Eleanor Coerr,4.1,24171,3289,114,Canada,1922,4.07,26794,2029,21,42
+Skippyjon Jones,Judy Schachner,4.22,34674,3262,114,The United States,1951,4.18,75016,4120,55,256
+A Child's Garden of Verses,Robert Louis Stevenson,4.26,26104,3238,114,Scotland,1850,3.85,1248885,44897,3502,5320
+"Mama, Do You Love Me?",Barbara M. Joosse,4.21,7157,3234,114, ,0,4.01,11659,1217,56,37
+"Inside the Human Body (The Magic School Bus, #3)",Joanna Cole,4.28,34786,3232,114,The United States,1944,4.31,153308,3578,344,168
+Anne of Avonlea (Anne of Green Gables #2),L.M. Montgomery,4.2,168134,3231,114,Canada,1874,4.22,1849845,73316,575,9717
+"A Kiss for Little Bear (Little Bear, #5)",Else Holmelund Minarik,4.31,13056,3230,114,in Denmark,1920,4.25,99789,1366,73,114
+Owl Moon,Jane Yolen,4.2,42980,3229,114,The United States,0,3.96,378313,30963,846,2818
+The Graveyard Book,Neil Gaiman,4.14,482871,3194,114, ,0,4.13,6840925,416732,734,280368
+Little Red Riding Hood,Trina Schart Hyman,4.14,23395,3156,114,The United States,1939,4.13,75698,4860,143,170
+"The Cricket in Times Square (Chester Cricket and His Friends, #1)",George Selden,4.03,62946,3081,114,The United States,1929,4.02,66102,2172,28,76
+"The Long Winter (Little House, #6)",Laura Ingalls Wilder,4.15,82714,3054,114,The United States,1867,4.19,1233005,29395,423,4235
+"Beezus and Ramona (Ramona, #1)",Beverly Cleary,4.01,97932,3041,114,The United States,1916,4.01,839064,23363,118,2931
+The 500 Hats of Bartholomew Cubbins,Dr. Seuss,0.0,15569,3039,114,The United States,1904,4.25,3513031,62027,399,16964
+The Westing Game,Ellen Raskin,4.01,189113,3037,114,The United States,1928,4.0,194184,12573,39,593
+"The Adventures of Captain Underpants (Captain Underpants, #1)",Dav Pilkey,3.98,47024,3017,114,The United States,1966,4.22,458654,18816,357,2149
+"The Teacher from the Black Lagoon (Black Lagoon, #1)",Mike Thaler,4.2,12055,2987,39,The United States,1936,4.07,28804,1490,207,97
+The Story About Ping,Marjorie Flack,4.15,42472,2986,39,The United States,1897,4.17,56560,1215,30,30
+Wayside School Is Falling Down (Wayside School #2),Louis Sachar,4.15,59322,2950,39,The United States,0,4.0,1361962,36990,63,3269
+King Bidgood's in the Bathtub,Audrey Wood,4.22,11955,2910,39,The United States,0,4.21,132600,5953,72,254
+Bear Snores On,Karma Wilson,4.25,31703,2908,39,in The United States,1970,4.17,82122,5296,83,436
+"Frog and Toad All Year (Frog and Toad, #3)",Arnold Lobel,4.34,36116,2904,39,The United States,1933,4.24,253955,6912,171,399
+Just So Stories,Rudyard Kipling,4.06,46830,2891,39,India,1865,3.92,398407,17319,2781,2752
+"The Gruffalo (Gruffalo, #1)",Julia Donaldson,4.43,38407,2847,39,The United Kingdom,0,4.29,137858,9891,569,1342
+Swimmy,Leo Lionni,4.14,23191,2825,39,Netherlands,1910,4.16,102156,4607,94,365
+"The House at Pooh Corner (Winnie-the-Pooh, #2)",A.A. Milne,4.36,85869,2797,39,The United Kingdom,1882,4.33,572813,13823,1023,2939
+The Twits,Roald Dahl,3.97,130812,2789,39,The United Kingdom,1916,4.13,3685973,106987,678,22308
+The Complete Adventures of Curious George,Margret Rey,4.22,45260,2762,39,in Germany,1906,4.21,163533,2779,180,101
+Because of Winn-Dixie,Kate DiCamillo,4.07,228512,2743,39,The United States,0,4.08,739037,59451,75,8030
+Angelina Ballerina,Katharine Holabird,4.01,10042,2720,39,The United States,1948,3.95,17696,773,177,55
+Frédéric,Leo Lionni,4.2,20844,2684,39,Netherlands,1910,4.16,102156,4607,94,365
+"Hand, Hand, Fingers, Thumb",Al Perkins,4.23,29044,2674,39,The United States,1904,4.21,46194,912,21,21
+"Stop! Don't Read This, It's Impossible!",Malcolm McCoard,4.71,77,2664,39,The United Kingdom,0,4.74,464,64,10,24
+Jamberry,Bruce Degen,4.19,18768,2643,39,The United States,1945,4.28,144900,3623,186,49
+Maya's Magical Adventures,Malcolm McCoard,4.73,145,2641,39,The United Kingdom,0,4.74,464,64,10,24
+Animalia,Graeme Base,4.24,23076,2579,39,The United Kingdom,1958,4.23,45628,2324,45,315
+The Little Match Girl,Hans Christian Andersen,4.07,24841,2554,39,Denmark,1805,4.1,329400,13108,3181,2925
+The Snowman,Raymond Briggs,4.23,17992,2538,39,The United Kingdom,1934,4.17,34543,2308,120,186
+Each Peach Pear Plum,Janet Ahlberg,4.2,17943,2511,39,in The United Kingdom,1944,4.3,49614,2201,42,111
+Owl Babies,Martin Waddell,4.2,15908,2507,39,The United Kingdom,0,4.11,35070,2569,234,73
+Is Your Mama a Llama?,Deborah Guarino,4.18,22507,2491,39, ,0,4.18,22604,582,4,12
+The Trumpet of the Swan,E.B. White,4.08,73022,2473,39,The United States,1899,4.16,1902932,32566,61,2378
+"Lyle, Lyle, Crocodile",Bernard Waber,4.14,26936,2467,39,The United States,1921,4.11,37520,1335,41,52
+Johnny Tremain,Esther Forbes,3.66,45322,2461,39,The United States,1891,3.67,46054,2635,25,197
+"Mrs. Frisby and the Rats of NIMH (Rats of NIMH, #1)",Robert C. O'Brien,4.15,170324,2418,39,The United States,1918,4.11,191698,6080,6,222
+The Very Busy Spider,Eric Carle,4.2,39006,2405,39,The United States,1929,4.23,944299,25757,333,1749
+The Jungle Books,Rudyard Kipling,4.01,85938,2390,39,India,1865,3.92,398407,17319,2781,2752
+"My Father's Dragon (My Father's Dragon, #1)",Ruth Stiles Gannett,4.09,37053,2383,39,The United States,1923,4.11,51084,3143,25,77
+"Days with Frog and Toad (Frog and Toad, #4)",Arnold Lobel,4.27,22505,2379,39,The United States,1933,4.24,253955,6912,171,399
+Just Me and My Dad,Mercer Mayer,4.21,18308,2357,39,The United States,1943,4.22,323942,8353,624,696
+The Tiny Caterpillar and the Great Big Tree,Kelly Moran,3.9,30,2353,39,in The United States,0,4.14,19095,3997,33,1205
+The Country Bunny and the Little Gold Shoes,DuBose Heyward,4.33,10205,2329,39,The United States,1885,4.31,10680,421,30,13
+Diary of a Worm,Doreen Cronin,4.22,28957,2322,39,The United States,0,4.16,200588,9870,77,398
+Don't Let the Pigeon Stay Up Late!,Mo Willems,4.32,36121,2265,39,The United States,1968,4.3,556616,37639,121,3579
+"Ramona Quimby, Age 8 (Ramona, #6)",Beverly Cleary,4.09,70704,2244,39,The United States,1916,4.01,839064,23363,118,2931
+Walt Disney's Three Little Pigs (A Little Golden Book),Al Dempster,4.22,28954,2242,39, ,0,4.27,53255,533,21,7
+A Pet Banana,Othen Donald Dale Cummings,4.65,92,2241,39,The United States,0,4.6,654,118,12,22
+Serendipity,Stephen Cosgrove,4.19,2649,2215,39,The United States,1945,4.13,26694,1188,232,293
+The Wolves in the Walls,Neil Gaiman,4.02,17682,2206,39, ,0,4.13,6840925,416732,734,280369
+Tuesday,David Wiesner,4.15,26705,2203,39,The United States,1956,4.11,106648,12135,51,552
+Danny and the Dinosaur,Syd Hoff,4.01,31093,2189,39,in The United States,1912,3.99,46863,1666,159,57
+"Miss Nelson Is Back (Miss Nelson, #2)",Harry Allard,4.34,29623,2187,39,The United States,1928,4.3,142805,2296,24,68
+"The Secret of the Old Clock (Nancy Drew Mystery Stories, #1)",Carolyn Keene,3.98,71998,2182,39, ,0,3.92,695804,26288,937,2874
+The Berenstain Bears and Too Much TV,Stan Berenstain,4.06,16450,2178,39,The United States,1923,4.11,393812,8491,576,589
+Aesop's Fables,Aesop,4.05,120593,2158,39,in Amorium,620,4.05,139074,3835,1321,606
+The Foot Book: Dr. Seuss's Wacky Book of Opposites,Dr. Seuss,4.03,31032,2150,39,The United States,1904,4.25,3513031,62027,399,16964
+The Library,Sarah Stewart,4.34,4315,2144,39, ,0,4.27,13637,1539,36,93
+Turtle Wish,Murielle Cyr,4.5,159,2140,39,Canada,0,4.45,786,71,9,0
+The Miraculous Journey of Edward Tulane,Kate DiCamillo,4.35,93898,2112,39,The United States,0,4.08,739037,59451,75,8030
+The Six Lives of Henry the Eighth: The world's most unlucky cat!,Malcolm McCoard,4.58,53,2096,39,The United Kingdom,0,4.74,464,64,10,24
+The Going to Bed Book,Sandra Boynton,4.21,27294,2078,39,The United States,1953,4.18,201464,7474,114,867
+"Shiloh (Shiloh, #1)",Phyllis Reynolds Naylor,3.94,80401,2058,39,The United States,1933,3.94,166130,8414,189,916
+Time for Bed,Mem Fox,4.18,15720,2055,39,in Australia,1946,4.11,70435,6334,86,366
+Pierre: A Cautionary Tale in Five Chapters and a Prologue,Maurice Sendak,4.28,9418,2054,39,The United States,1928,4.21,1166111,22349,194,1752
+Not a Box,Antoinette Portis,4.23,14531,2049,39, ,0,4.11,27074,2979,16,106
+Alice in Wonderland,Jane Carruth,4.03,384218,2036,39, ,0,4.03,386115,5541,141,42
+My First Fun Golf Steps (My First Travel Books Series),Anna Othitis,4.86,91,2029,39,Zimbabwe,0,4.7,687,199,8,431
+Jumanji,Chris Van Allsburg,4.03,28414,2020,39,The United States,1949,4.23,329884,11711,44,964
+The Brothers Lionheart,Astrid Lindgren,4.33,32653,2012,39,Sweden,1907,4.18,390607,12120,564,2946
+A Color of His Own,Leo Lionni,4.27,20971,2011,39,Netherlands,1910,4.16,102156,4607,94,365
+Dragons Don't Dance Ballet,Jennifer Carson,4.64,61,2000,39,The United States,0,4.55,220,67,16,40
+Verdi,Janell Cannon,4.22,4762,1997,39,The United States,1957,4.25,122986,2346,9,136
+Richard Scarry's Best Storybook Ever!,Richard Scarry,4.23,8247,1982,39,The United States,1919,4.27,142940,3191,646,389
+The Tiger Who Came to Tea,Judith Kerr,4.25,15527,1951,39,in Germany,1923,4.13,46747,3137,81,296
+Cars and Trucks and Things That Go (Giant Little Golden Book),Richard Scarry,4.27,8855,1950,39,The United States,1919,4.27,142940,3191,646,389
+Fruzzle's Mystery Talent: A Bed Time Fantasy Story for Children ages 3-10,Karen (Kara) Brueggeman,4.38,69,1937,39,The United States,0,0.0,0,69,21,0
+"Good Dog, Carl (Good Dog, Carl, #1)",Alexandra Day,4.25,9655,1916,39,The United States,0,4.19,15396,1271,68,73
+The Berenstain Bears and Too Much Junk Food,Stan Berenstain,4.04,10752,1907,39,The United States,1923,4.11,393812,8491,576,589
+Duck on a Bike,David Shannon,4.09,14639,1902,39,The United States,1959,4.16,266265,13271,122,470
+The Dot,Peter H. Reynolds,4.22,29625,1895,39,Canada,1961,4.14,176393,14123,176,729
+"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,4.32,7235165,1881,39,The United States,1962,4.26,13622836,450529,46,88939
+Put Me in the Zoo,Robert Lopshire,4.14,47737,1871,39,The United States,1927,4.15,54207,812,30,24
+The Eleventh Hour,Graeme Base,4.32,9189,1845,39,The United Kingdom,1958,4.23,45628,2324,45,315
+If You Take a Mouse to School,Laura Joffe Numeroff,4.29,39439,1837,39,The United States,0,4.24,514652,10921,102,833
+Pinocchio,Carlo Collodi,3.85,74151,1833,39,Italy,1826,3.86,77089,3055,113,187
+"Ramona the Brave (Ramona, #3)",Beverly Cleary,4.11,56225,1826,39,The United States,1916,4.01,839064,23363,118,2931
+Dr. Seuss's Sleep Book,Dr. Seuss,4.18,10629,1804,39,The United States,1904,4.25,3513034,62027,399,16964
+Flotsam,David Wiesner,4.22,26633,1778,39,The United States,1956,4.11,106648,12135,51,552
+Paddington Bear,Michael Bond,4.23,2847,1777,39,The United Kingdom,1926,4.19,108561,4158,362,301
+The Authoritative Calvin and Hobbes: A Calvin and Hobbes Treasury,Bill Watterson,4.68,22652,1746,39,The United States,1958,4.64,610078,8238,285,3941
+Ish,Peter H. Reynolds,4.38,10601,1745,39,Canada,1961,4.14,176393,14123,176,729
+"Moo, Baa, La La La!",Sandra Boynton,4.19,34248,1732,39,The United States,1953,4.18,201464,7474,114,867
+Quick as a Cricket,Audrey Wood,4.13,7553,1722,39,The United States,0,4.21,132600,5953,72,254
+Wendall,Othen Donald Dale Cummings,4.55,75,1713,39,The United States,0,4.6,654,118,12,22
+The Amazing Super Great Awesome Incredible Fantastic Space Race!,Othen Donald Dale Cummings,4.69,58,1692,39,The United States,0,4.6,654,118,12,22
+"The Last Unicorn (The Last Unicorn, #1)",Peter S. Beagle,4.16,101325,1689,39,The United States,0,4.36,816539,21060,199,2461
+I'd Rather Be Riding My Bike,Eric Pinder,4.14,14,1688,39, ,0,3.67,1375,262,20,35
+"The Last Battle (Chronicles of Narnia, #7)",C.S. Lewis,4.01,245978,1684,39,Ireland,1898,4.16,6706349,163357,408,37052
+Just Me and My Mom (A Golden Look-Look Book),Mercer Mayer,4.23,11068,1677,39,The United States,1943,4.22,323942,8353,624,696
+Nutcracker,E.T.A. Hoffmann,3.97,15310,1667,39,Germany,1776,3.78,56258,3946,1075,636
+"The Book of Three (The Chronicles of Prydain, #1)",Lloyd Alexander,3.97,76155,1656,39,The United States,1924,4.04,403764,14775,79,1899
+"The Missing Piece (The Missing Piece, #1)",Shel Silverstein,4.25,29041,1647,39,The United States,1930,4.33,2911548,41056,121,9038
+The Mysterious Corridor (Duke & Michel #1),Elias Zapple,4.68,90,1633,39,The United Kingdom,0,4.84,420,74,70,54
+"Roll of Thunder, Hear My Cry (Logans, #4)",Mildred D. Taylor,3.86,118504,1631,39,The United States,1943,3.91,143559,7536,29,1024
+The Ugly Duckling,Hans Christian Andersen,4.1,40730,1596,39,Denmark,1805,4.1,329400,13108,3181,2925
+"Wonder (Wonder, #1)",R.J. Palacio,4.4,909398,1588,39, ,0,4.39,1022657,82906,23,6927
